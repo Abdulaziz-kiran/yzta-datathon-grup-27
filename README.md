@@ -36,6 +36,15 @@
 
 <br/>
 
+> **Kişisel Katkı Notu / Personal Contribution Note (Abdülaziz Kıran)**  
+> Bu depo, YZTA 2026 Datathon sürecinde Grup 27 tarafından ortaklaşa geliştirilen projenin kopyasıdır (fork).  
+> **Kişisel Katkı Kapsamı:**
+> - Takım dokümantasyonu ve süreç yönetişimi desteği (`TEAM_RULES.md`)
+> - Deney takip yapısı ve şablonları
+> - Proje README ve tekrarlanabilirlik (reproducibility) dokümantasyonu  
+> 
+> *Not: Makine öğrenmesi model geliştirme, öznitelik mühendisliği (feature engineering) ve keşifsel veri analizi (EDA) takımın diğer üyeleri tarafından gerçekleştirilmiştir; bu teknik alanlar üzerinde kişisel sahiplik iddia edilmez.*
+
 ---
 
 ## 📖 İçindekiler
